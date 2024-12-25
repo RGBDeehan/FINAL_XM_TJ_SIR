@@ -87,3 +87,18 @@ Sample Input
 40 10 30 15 30 30 30
 Sample Output
 4
+
+
+ArrayCW1 ::Input some numbers , find average & check how many numbers are
+greater than the average & show them .
+
+ArrayCW2 :: Enter some days temperature and show how many & which
+ temperature are higher than previous day.
+ 
+ArrayCW3 :: Enter 2 semesters marks & show which semister is harder.
+
+ArrayCW4 :: Enter 2 semesters students marks & show hwo many students improved
+and which student improved how many narks improved.
+
+ArrayCW5 :: Enter 5 numbers & show even numbers seperately using 
+another array & also find sum of even numbers.
