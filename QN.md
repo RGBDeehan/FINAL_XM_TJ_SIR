@@ -102,3 +102,11 @@ and which student improved how many narks improved.
 
 ArrayCW5 :: Enter 5 numbers & show even numbers seperately using 
 another array & also find sum of even numbers.
+
+NSLoop-1. Display number of factors of each X.
+
+NSLoop-2. Display average number of Factor for all X.
+
+NSLoop-3. Display only prime X[i].
+
+NSLoop-4. Find GCD using NESTED LOOP.
